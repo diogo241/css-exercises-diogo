@@ -1,0 +1,23 @@
+body{
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odd-number {
+    background-color: rgb(250, 208, 215);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odd-number__font {
+    font-size: 24px;
+}
+
+#second-element {
+    color: rgb(64, 83, 190);
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: rgb(58, 155, 58);
+    font-size: 24px;
+    font-weight: 600;
+}
